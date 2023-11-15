@@ -7,34 +7,21 @@ python optimizer.py
 ```
 
 <p align="center">
-  <img width="400" src="images/ackley.gif">
-  <img width="400" src="images/goldstein.gif">
+  <img width="450" src="images/ackley.gif">
+  <img width="450" src="images/goldstein.gif">
 </p>
 
 <p align="center">
-
+  <img width="450" src="images/rosenbrock.gif">
+  <img width="450" src="images/levy.gif">
 </p>
 
 <p align="center">
-  <img width="500" src="images/rosenbrock.gif">
+  <img width="450" src="images/michalewicz.gif">
+  <img width="450" src="images/himmelblau.gif">
 </p>
 
 <p align="center">
-  <img width="500" src="images/levy.gif">
-</p>
-
-<p align="center">
-  <img width="500" src="images/michalewicz.gif">
-</p>
-
-<p align="center">
-  <img width="500" src="images/himmelblau.gif">
-</p>
-
-<p align="center">
-  <img width="500" src="images/dropwave.gif">
-</p>
-
-<p align="center">
-  <img width="500" src="images/booth.gif">
+  <img width="450" src="images/dropwave.gif">
+  <img width="450" src="images/booth.gif">
 </p>
