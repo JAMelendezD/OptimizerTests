@@ -7,11 +7,12 @@ python optimizer.py
 ```
 
 <p align="center">
-  <img width="500" src="images/ackley.gif">
+  <img width="400" src="images/ackley.gif">
+  <img width="400" src="images/goldstein.gif">
 </p>
 
 <p align="center">
-  <img width="500" src="images/goldstein.gif">
+
 </p>
 
 <p align="center">
