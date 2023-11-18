@@ -47,3 +47,10 @@ python optimizer.py
   <img width="300" src="images/booth.gif">
   <img width="300" src="images/booth_swarm.gif">
 </p>
+
+## Gradient/Hessian based
+
+<p align="center">
+  <img width="300" src="images/himmelblau_gd.gif">
+  <img width="300" src="images/himmelblau_newt.gif">
+</p>
